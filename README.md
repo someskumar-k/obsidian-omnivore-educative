@@ -1,5 +1,5 @@
 # obsidian-omnivore
-test run 1
+test run trial 3
 This plugin imports your saved [Omnivore](https://omnivore.app/) articles and highlights into Obsidian.
 
 ## Features
