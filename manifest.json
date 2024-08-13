@@ -1,9 +1,9 @@
 {
 	"id": "obsidian-omnivore-t1",
-	"name": "Omnivore",
-	"version": "1.0.0",
+	"name": "EducativeOmnivore",
+	"version": "2.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is an Omnivore plugin for Obsidian ti.",
+	"description": "This is an Omnivore plugin for Obsidian for duplication for omnivore.",
 	"author": "Omnivore",
 	"authorUrl": "https://github.com/someskumar-k/obsidian-omnivore-educative",
 	"isDesktopOnly": false
